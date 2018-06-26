@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Dewen Zeng</title>
+    <link>https://zengzhezz.github.io/dewenzeng/home/</link>
+    <description>Recent content in Homes on Dewen Zeng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://zengzhezz.github.io/dewenzeng/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://zengzhezz.github.io/dewenzeng/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://zengzhezz.github.io/dewenzeng/home/about/</guid>
+      <description>About me Hello! I am a master student in Microelectronic Engineering Department at HUST. Currently, I am advised by Dr.Xiaowei Xu and I am doing research in CPSIL lab led by Professor Yu Hu. My research focus is on time series data miming and embedded computing. We hope to design new optimized and energy-efficiency embedded architecture to accelerate distance function in data miming and apply deep learning algorithms to solve real world problems.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://zengzhezz.github.io/dewenzeng/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://zengzhezz.github.io/dewenzeng/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://zengzhezz.github.io/dewenzeng/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://zengzhezz.github.io/dewenzeng/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://zengzhezz.github.io/dewenzeng/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://zengzhezz.github.io/dewenzeng/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
