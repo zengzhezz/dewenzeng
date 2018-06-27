@@ -2,7 +2,7 @@
 
 
   
-/*************************************************
+*************************************************
  *  Hugo Academic: an academic theme for Hugo.
  *  Designed by @GeorgeCushen.
  *  https://github.com/gcushen/hugo-academic
@@ -608,8 +608,9 @@ article {
 }
 
 .article-banner {
-  width: 100%;
+  max-width: 760px;
   height: auto;
+  margin: 0 auto;
 }
 
 .article-header-caption {
