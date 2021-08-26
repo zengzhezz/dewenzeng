@@ -33,6 +33,10 @@ $(function () {
         }
     })
 
+    $("#site-name").click(function () {
+        
+    })
+
     $(document).click(function(e){
         var target = $(e.target);
         if(target.closest(".nav").length != 0) return;
