@@ -33,9 +33,8 @@ $(function () {
         }
     })
 
-    $("#site-name").click(function () {
-        
-    })
+    $("#site-name").remove()
+    $("#blog_name").append("<a class='blog_title' id='site-name href='/'>Dewen's Website</a>")
 
     $(document).click(function(e){
         var target = $(e.target);
