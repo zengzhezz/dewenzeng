@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Contrastive Learning with Temporal Correlated Medical Images: A Case Study using Lung Segmentation in Chest X-Rays"
+date:   2021-04-23 22:21:58 +00:00
+image: images/cl_tci.jpg
+categories: research
+author: "Dewen Zeng"
+authors: "<strong>Dewen Zeng</strong>, John N Kheir, Peng Zeng and Yiyu Shi."
+venue: "ICCAD (invited)"
+arxiv: https://arxiv.org/pdf/2109.03233.pdf
+code: https://github.com/dewenzeng/CL-TCI
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "MDA: A Reconfigurable Memristor-based Distance Accelerator for Time Series Mining on Data Centers"
+date:   2019-04-22 22:21:58 +00:00
+image: images/mda_tcad.jpg
+categories: research
+author: "Dewen Zeng"
+authors: "Xiaowei Xu, Yu Hu, <strong>Dewen Zeng</strong>, Wenyao Xu, Feng Lin, Xinwei Yao and Yiyu Shi"
+venue: "TCAD"
+arxiv: https://ieeexplore.ieee.org/document/8356041
+---

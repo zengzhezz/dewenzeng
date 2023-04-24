@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Semi-supervised Contrastive Learning for Label-efficient Medical Image Segmentation"
+date:   2021-04-23 22:21:57 +00:00
+image: images/semi_cl.jpg
+categories: research
+author: "Dewen Zeng"
+authors: "Xinrong Hu, <strong>Dewen Zeng</strong>, Xiaowei Xu and Yiyu Shi,"
+venue: "MICCAI"
+arxiv: https://arxiv.org/abs/2109.07407
+code: https://github.com/xhu248/semi_cotrast_seg
+---

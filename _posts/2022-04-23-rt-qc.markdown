@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Hardware-aware Real-time Myocardial Segmentation Quality Control in Contrast Echocardiography"
+date:   2021-04-23 22:21:52 +00:00
+image: images/rt_quality_control.jpg
+categories: research
+author: "Dewen Zeng"
+authors: "<strong>Dewen Zeng</strong>, Yukun Ding, Xiaowei Xu, Haiyun Yuan, Hongwen Fei, Meiping Huang, Jian Zhuang, Jingtong Hu and Yiyu Shi."
+venue: "DAC (invited)"
+arxiv: https://ieeexplore.ieee.org/abstract/document/9586158?casa_token=YGv-QEIv4QwAAAAA:lxQBTj8zo4VmNn-6kuhVzztNwHA-_KMCYxNz8VkQ2bs3gJymV0g7tq3SBN9jsvcTRuaPL7nY
+---

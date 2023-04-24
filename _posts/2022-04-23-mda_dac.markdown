@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "An Efficient Memristor-Based Distance Accelerator for Time Series Data Mining on Data Centers"
+date:   2017-04-22 22:21:58 +00:00
+image: images/mda_dac.jpg
+categories: research
+author: "Dewen Zeng"
+authors: "Xiaowei Xu, <strong>Dewen Zeng</strong>, Wenyao Xu, Yiyu Shi, Yu Hu"
+venue: "DAC"
+arxiv: https://ieeexplore.ieee.org/document/8060342
+---

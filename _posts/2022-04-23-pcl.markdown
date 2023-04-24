@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Positional Contrastive Learning for Volumetric Medical Image Segmentation"
+date:   2021-04-23 22:21:58 +00:00
+image: images/pcl.jpg
+categories: research
+author: "Dewen Zeng"
+authors: "<strong>Dewen Zeng</strong>, Yawen Wu, Xinrong Hu, Xiaowei Xu, Haiyun Yuan, Meiping Huang, Jian Zhuang, Jingtong Hu, and Yiyu Shi"
+venue: "MICCAI"
+arxiv: https://arxiv.org/abs/2106.09157
+code: https://github.com/dewenzeng/positional_cl
+---
