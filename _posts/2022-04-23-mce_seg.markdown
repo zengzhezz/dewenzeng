@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "A deep learning approach with temporal consistency for automatic myocardial segmentation of quantitative myocardial contrast echocardiography"
+date:   2021-04-22 22:21:57 +00:00
+image: images/mce_seg.jpg
+categories: research
+author: "Dewen Zeng"
+authors: "Mingqi Li, <strong>Dewen Zeng</strong>, Qiu Xie, Ruixue Xu, Yu Wang, Dunliang Ma, Yiyu Shi, Xiaowei Xu, Meiping Huang, Hongwen Fei"
+venue: "The International Journal of Cardiovascular Imaging"
+arxiv: https://link.springer.com/article/10.1007/s10554-021-02181-8
+---
