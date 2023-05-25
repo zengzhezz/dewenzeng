@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Distributed Contrastive Learning for Medical Image Segmentation"
+date:   2022-04-23 22:10:59 +00:00
+image: images/fl_mia.jpg
+categories: research
+author: "Dewen Zeng"
+authors: "Yawen Wu, <strong>Dewen Zeng</strong>, Zhepeng Wang, Yiyu Shi, Jingtong Hu"
+venue: "Medical Image Analysis"
+arxiv: https://arxiv.org/pdf/2208.03808.pdf
+---
