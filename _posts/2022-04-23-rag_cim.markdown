@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Robust Implementation of Retrieval-Augmented Generation on Edge-based Computing-in-Memory Architectures"
+date:   2024-05-01 22:21:59 +00:00
+image: images/rag_cim.png
+categories: research
+author: "Ruiyang Qin"
+authors: "Ruiyang Qin, Zheyu Yan, <strong>Dewen Zeng</strong>, Zhenge Jia, Dancheng Liu, Jianbo Liu, Zhi Zheng, Ningyuan Cao, Kai Ni, Jinjun Xiong and Yiyu Shi,"
+venue: "ICCAD"
+arxiv: https://arxiv.org/abs/2405.04700
+---
