@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Contrastive Learning with Synthetic Positives"
+date:   2024-09-01 22:21:59 +00:00
+image: images/clsp.png
+categories: research
+author: "Dewen Zeng"
+authors: "<strong>Dewen Zeng</strong>, Yawen Wu, Xinrong Hu, Xiaowei Xu and Yiyu Shi"
+venue: "ECCV"
+arxiv: https://arxiv.org/abs/2408.16965
+code: https://github.com/dewenzeng/clsp
+---
