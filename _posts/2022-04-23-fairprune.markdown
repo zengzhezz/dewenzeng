@@ -8,4 +8,5 @@ author: "Dewen Zeng"
 authors: "Yawen Wu*, <strong>Dewen Zeng</strong>* (equal contribution), Xiaowei Xu, Yiyu Shi and Jingtong Hu."
 venue: "MICCAI"
 arxiv: https://arxiv.org/abs/2203.02110
+slides: slides/fairprune_slides.pdf
 ---

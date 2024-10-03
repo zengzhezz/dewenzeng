@@ -8,4 +8,5 @@ author: "Dewen Zeng"
 authors: "<strong>Dewen Zeng</strong>, Yawen Wu, Xinrong Hu, Xiaowei Xu, Jingtong Hu, Yiyu Shi."
 venue: "MICCAI"
 arxiv: https://arxiv.org/abs/2306.00112
+slides: slides/BYOL_TracIn_slides.pdf
 ---

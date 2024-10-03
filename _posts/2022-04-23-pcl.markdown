@@ -9,4 +9,5 @@ authors: "<strong>Dewen Zeng</strong>, Yawen Wu, Xinrong Hu, Xiaowei Xu, Haiyun 
 venue: "MICCAI"
 arxiv: https://arxiv.org/abs/2106.09157
 code: https://github.com/dewenzeng/positional_cl
+slides: slides/pcl_slides.pdf
 ---

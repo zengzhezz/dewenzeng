@@ -9,4 +9,6 @@ authors: "<strong>Dewen Zeng</strong>, Mingqi Li, Yukun Ding, Xiaowei Xu, Qiu Xi
 venue: "IPMI"
 arxiv: https://link.springer.com/chapter/10.1007/978-3-030-78191-0_37
 code: https://github.com/dewenzeng/extended_dice
+slides: slides/extended_dice_slides.pdf
+poster: slides/extended_dice_poster.pdf
 ---
