@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Enhancing 3D Transformer Segmentation Model for Medical Image with Token-level Representation Learning"
+date:   2024-09-10 22:21:59 +00:00
+image: images/trl.jpg
+categories: research
+author: "Dewen Zeng"
+authors: "Xinrong Hu, <strong>Dewen Zeng</strong>, Yawen Wu, Xueyang Li, Yiyu Shi"
+venue: "BIBM"
+arxiv: https://arxiv.org/pdf/2408.05889
+code: https://github.com/xhu248/SimTROT
+---
