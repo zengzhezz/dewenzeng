@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Contrastive Learning with Diffusion Features forWeakly Supervised Medical Image Segmentation"
+date:   2026-06-30 22:21:59 +00:00
+image: images/trl.jpg
+categories: research
+author: "Dewen Zeng"
+authors: "<strong>Dewen Zeng</strong>, Xinrong Hu, Yu-Jen Chen, Yawen Wu, Xiaowei Xu, Yiyu Shi"
+venue: "Arxiv"
+arxiv: https://arxiv.org/pdf/2506.23460
+---
